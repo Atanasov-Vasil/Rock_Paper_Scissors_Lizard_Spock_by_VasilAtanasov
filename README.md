@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors_Lizard_Spock
-Simple console game of Rock Paper Scissors by_VasilAtanasov
+Simple console game of Rock Paper Scissors by Vasil Atanasov
 
 
 ![image](https://user-images.githubusercontent.com/119658211/213860261-2d3cf60a-b384-41c5-8e44-c9148dc28df1.png)
