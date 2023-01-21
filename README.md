@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors_by_VasilAtanasov
+# Rock v/s Paper v/s Scissors_by_VasilAtanasov
 Simple console game of Rock Paper Scissors
 
 Multiple games with scoring system until command 'End' is given
